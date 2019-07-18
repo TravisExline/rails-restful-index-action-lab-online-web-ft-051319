@@ -1,1 +1,5 @@
 class Students < ApplicationController::Base
+
+  def index
+  end
+end
